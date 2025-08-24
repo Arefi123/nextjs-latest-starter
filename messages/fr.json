@@ -1,0 +1,197 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "export": "Exporter",
+    "import": "Importer"
+  },
+  "navigation": {
+    "dashboard": "Tableau de bord",
+    "analytics": "Analytiques",
+    "analytics1": "Analytique 1",
+    "analytics2": "Analytique 2",
+    "users": "Utilisateurs",
+    "transactions": "Transactions",
+    "reports": "Rapports",
+    "settings": "Paramètres",
+    "help": "Aide",
+    "profile": "Profil",
+    "logout": "Déconnexion",
+    "authentication": "Authentification",
+    "signin": "Se connecter",
+    "signup": "S'inscrire",
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transformez Votre Entreprise avec Nextjs Starter Template",
+    "description": "La plateforme de paiement la plus fiable pour les entreprises modernes. Acceptez les paiements, gérez les transactions et développez vos revenus avec nos solutions financières complètes.",
+    "getStarted": "Commencer",
+    "watchDemo": "Voir la Démo"
+  },
+  "features": {
+    "title": "Pourquoi Choisir Nextjs Starter Template?",
+    "description": "Découvrez les fonctionnalités puissantes qui font de Nextjs Starter Template le choix préféré des entreprises du monde entier.",
+    "security": {
+      "title": "Sécurité Bancaire",
+      "description": "Vos transactions sont protégées par un chiffrement de niveau entreprise et une détection de fraude."
+    },
+    "speed": {
+      "title": "Ultra Rapide",
+      "description": "Traitez les paiements en quelques secondes avec notre infrastructure optimisée et notre réseau mondial."
+    },
+    "global": {
+      "title": "Portée Mondiale",
+      "description": "Acceptez les paiements de clients du monde entier avec le support de plus de 100 devises."
+    },
+    "collaboration": {
+      "title": "Collaboration d'Équipe",
+      "description": "Travaillez ensemble de manière transparente avec un accès basé sur les rôles et des notifications en temps réel."
+    }
+  },
+  "cta": {
+    "title": "Prêt à Commencer?",
+    "description": "Rejoignez des milliers d'entreprises qui font confiance à Nextjs Starter Template pour leurs besoins de traitement des paiements.",
+    "getStarted": "Essai Gratuit"
+  },
+  "footer": {
+    "title": "Nextjs Starter Template",
+    "description": "La plateforme de paiement la plus fiable pour les entreprises modernes. Acceptez les paiements, gérez les transactions et développez vos revenus avec nos solutions financières complètes.",
+    "company": "Entreprise",
+    "about": "À propos",
+    "products": "Produits",
+    "pricing": "Prix",
+    "documentation": "Documentation",
+    "helpCenter": "Centre d'aide",
+    "support": "Support"
+  },
+  "auth": {
+    "signin": "Se connecter",
+    "signup": "S'inscrire",
+    "signout": "Se déconnecter",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "forgotPassword": "Mot de passe oublié?",
+    "rememberMe": "Se souvenir de moi",
+    "alreadyHaveAccount": "Vous avez déjà un compte?",
+    "dontHaveAccount": "Vous n'avez pas de compte?",
+    "createAccount": "Créer un compte",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "createAccountTitle": "Créer un compte",
+    "createAccountSubtitle": "Rejoignez Acme Inc et commencez dès aujourd'hui",
+    "createAccountButton": "Créer un compte",
+    "creatingAccount": "Création du compte...",
+    "termsAgreement": "J'accepte les",
+    "termsOfService": "Conditions d'utilisation",
+    "and": "et",
+    "privacyPolicy": "Politique de confidentialité",
+    "byClickingContinue": "En cliquant sur continuer, vous acceptez nos ",
+    "registrationFailed": "L'inscription a échoué. Veuillez réessayer.",
+    "orContinueWith": "Ou continuer avec",
+    "welcomeBack": "Bon retour",
+    "loginToAccount": "Connectez-vous à votre compte Acme Inc",
+    "loggingIn": "Connexion en cours...",
+    "invalidCredentials": "Email ou mot de passe invalide. Veuillez réessayer."
+  },
+  "dashboard": {
+    "welcome": "Bienvenue au tableau de bord",
+    "overview": "Aperçu",
+    "analytics": "Analytiques",
+    "users": "Utilisateurs",
+    "transactions": "Transactions",
+    "reports": "Rapports",
+    "settings": "Paramètres",
+    "help": "Aide"
+  },
+  "alertModal": {
+    "confirm": "Confirmer",
+    "cancel": "Annuler"
+  },
+  "pagination": {
+    "previous": "Précédent",
+    "next": "Suivant",
+    "of": "de",
+    "rowsPerPage": "Lignes par page",
+    "showing": "Afficher",
+    "to": "à",
+    "entries": "entrées",
+    "all": "Tout",
+    "goToPage": "Aller à la page",
+    "goToPreviousPage": "Aller à la page précédente",
+    "goToNextPage": "Aller à la page suivante"
+  },  
+  "data-table": {
+    "noData": "Aucune donnée trouvée",
+    "actions": "Actions",
+    "status": "Statut",
+    "createdAt": "Créé le",
+    "updatedAt": "Mis à jour le",
+    "createdBy": "Créé par"
+  },
+  "user": {
+    "user": "Utilisateur",
+    "users": "Utilisateurs",
+    "createUser": "Créer un utilisateur",
+    "editUser": "Modifier un utilisateur",
+    "updateUser": "Mettre à jour un utilisateur",
+    "deleteUser": "Supprimer un utilisateur",
+    "addUser": "Ajouter un utilisateur",
+    "usersManagement": "Gestion des utilisateurs",
+    "timezone": "Fuseau horaire",
+    "username": "Nom d'utilisateur",
+    "websiteUrl": "URL du site web",
+    "bannerImageUrl": "URL de l'image de bannière",
+    "joined": "Rejoint le",
+    "noUsersFound": "Aucun utilisateur trouvé",
+    "deleteUserDescription": "Êtes-vous sûr de vouloir supprimer cet utilisateur?",
+    "states": {
+      "totalUsers": "Total des utilisateurs",
+      "active": "Actif",
+      "inactive": "Inactif",
+      "pending": "En attente",
+      "blocked": "Bloqué",
+      "withWebsite": "Avec site web"
+    }
+  },
+  "form": {
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "saving": "Enregistrement..."
+  },
+  "validation": {
+    "email": {
+      "invalid": "Adresse e-mail invalide",
+      "required": "L'e-mail est requis"
+    },
+    "password": {
+      "min": "Le mot de passe doit contenir au moins {min} caractères",
+      "required": "Le mot de passe est requis",
+      "match": "Les mots de passe ne correspondent pas"
+    },
+    "required": "Ce champ est requis",
+    "minLength": "Doit contenir au moins {min} caractères",
+    "maxLength": "Ne doit pas dépasser {max} caractères",
+    "url": "Doit être une URL valide",
+    "firstName": {
+      "min": "Le prénom doit contenir au moins {min} caractères"
+    },
+    "lastName": {
+      "min": "Le nom de famille doit contenir au moins {min} caractères"
+    },
+    "terms": {
+      "required": "Vous devez accepter les conditions d'utilisation"
+    },
+    "passwordMatch": "Les mots de passe ne correspondent pas"
+  }
+}

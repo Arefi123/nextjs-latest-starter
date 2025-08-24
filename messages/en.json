@@ -1,0 +1,196 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export",
+    "import": "Import"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "analytics1": "Analytics 1",
+    "analytics2": "Analytics 2",
+    "users": "Users",
+    "transactions": "Transactions",
+    "reports": "Reports",
+    "settings": "Settings",
+    "help": "Help",
+    "profile": "Profile",
+    "logout": "Logout",
+    "authentication": "Authentication",
+    "signin": "Sign In",
+    "signup": "Sign Up",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transform Your Business with Nextjs Starter Template",
+    "description": "The most trusted payment platform for modern businesses. Accept payments, manage transactions, and grow your revenue with our comprehensive financial solutions.",
+    "getStarted": "Get Started",
+    "watchDemo": "Watch Demo"
+  },
+  "features": {
+    "title": "Why Choose Nextjs Starter Template?",
+    "description": "Discover the powerful features that make Nextjs Starter Template the preferred choice for businesses worldwide.",
+    "security": {
+      "title": "Bank-Level Security",
+      "description": "Your transactions are protected with enterprise-grade encryption and fraud detection."
+    },
+    "speed": {
+      "title": "Lightning Fast",
+      "description": "Process payments in seconds with our optimized infrastructure and global network."
+    },
+    "global": {
+      "title": "Global Reach",
+      "description": "Accept payments from customers worldwide with support for 100+ currencies."
+    },
+    "collaboration": {
+      "title": "Team Collaboration",
+      "description": "Work together seamlessly with role-based access and real-time notifications."
+    }
+  },
+  "cta": {
+    "title": "Ready to Get Started?",
+    "description": "Join thousands of businesses that trust Nextjs Starter Template for their payment processing needs.",
+    "getStarted": "Start Free Trial"
+  },
+  "footer": {
+    "title": "Nextjs Starter Template",
+    "description": "The most trusted payment platform for modern businesses. Accept payments, manage transactions, and grow your revenue with our comprehensive financial solutions.",
+    "company": "Company",
+    "about": "About",
+    "products": "Products",
+    "pricing": "Pricing",
+    "documentation": "Documentation",
+    "helpCenter": "Help Center",
+    "support": "Support"
+  },
+  "auth": {
+    "signin": "Sign In",
+    "signup": "Sign Up",
+    "signout": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "rememberMe": "Remember me",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "createAccount": "Create Account",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "createAccountTitle": "Create an account",
+    "createAccountSubtitle": "Join Acme Inc and get started today",
+    "createAccountButton": "Create account",
+    "creatingAccount": "Creating account...",
+    "termsAgreement": "I agree to the",
+    "termsOfService": "Terms of Service",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy",
+    "byClickingContinue": "By clicking continue, you agree to our ",
+    "registrationFailed": "Registration failed. Please try again.",
+    "orContinueWith": "Or continue with",
+    "welcomeBack": "Welcome back",
+    "loginToAccount": "Login to your Acme Inc account",
+    "loggingIn": "Logging in...",
+    "invalidCredentials": "Invalid email or password. Please try again."
+  },
+  "dashboard": {
+    "welcome": "Welcome to Dashboard",
+    "overview": "Overview",
+    "analytics": "Analytics",
+    "users": "Users",
+    "transactions": "Transactions",
+    "reports": "Reports",
+    "settings": "Settings",
+    "help": "Help"
+  },
+  "alertModal": {
+    "confirm": "Confirm",
+    "cancel": "Cancel"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "of": "of",
+    "rowsPerPage": "Rows per page:",
+    "showing": "Showing",
+    "to": "to",
+    "entries": "entries",
+    "all": "All",
+    "goToPage": "Go to page",
+    "goToPreviousPage": "Go to previous page",
+    "goToNextPage": "Go to next page"
+  },
+  "data-table": {
+    "noData": "No data found",
+    "actions": "Actions",
+    "status": "Status",
+    "createdAt": "Created At",
+    "updatedAt": "Updated At",
+    "createdBy": "Created By"
+  },
+  "user": {
+    "user": "User",
+    "users": "Users",
+    "createUser": "Create User",
+    "editUser": "Edit User",
+    "updateUser": "Update User",
+    "deleteUser": "Delete User",
+    "addUser": "Add User",
+    "usersManagement": "Users Management",
+    "timezone": "Timezone",
+    "username": "Username",
+    "websiteUrl": "Website URL",
+    "bannerImageUrl": "Banner Image URL",
+    "joined": "Joined",
+    "noUsersFound": "No users found",
+    "deleteUserDescription": "Are you sure you want to delete this user?",
+    "states": {
+      "active": "Active",
+      "totalUsers": "Total Users",
+      "inactive": "Inactive",
+      "pending": "Pending",
+      "blocked": "Blocked",
+      "withWebsite": "With Website"
+    }
+  },
+  "form": {
+    "cancel": "Cancel",
+    "save": "Save",
+    "saving": "Saving..."
+  },
+  "validation": {
+    "email": {
+      "invalid": "Invalid email address",
+      "required": "Email is required"
+    },
+    "password": {
+      "min": "Password must be at least {min} characters",
+      "required": "Password is required",
+      "match": "Passwords don't match"
+    },
+    "required": "This field is required",
+    "minLength": "Must be at least {min} characters",
+    "maxLength": "Must be no more than {max} characters",
+    "url": "Must be a valid URL",
+    "firstName": {
+      "min": "First name must be at least {min} characters"
+    },
+    "lastName": {
+      "min": "Last name must be at least {min} characters"
+    },
+    "terms": {
+      "required": "You must accept the terms and conditions"
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "common": {
+    "loading": "پورته کول...",
+    "error": "تېروتنه",
+    "success": "بریالیتوب",
+    "cancel": "لغوه کول",
+    "save": "ساتل",
+    "delete": "ړنګول",
+    "edit": "سمول",
+    "create": "جوړول",
+    "search": "لټول",
+    "filter": "فلټر",
+    "export": "صادرول",
+    "import": "واردول"
+  },
+  "navigation": {
+    "dashboard": "ډشبورډ",
+    "analytics": "تحلیلات",
+    "analytics1": "تحلیل 1",
+    "analytics2": "تحلیل 2",
+    "users": "کاروونکي",
+    "transactions": "لیږدونه",
+    "reports": "راپورونه",
+    "settings": "تنظیمات",
+    "help": "مرسته",
+    "profile": "پروفایل",
+    "logout": "وتل",
+    "authentication": "احراز هویت",
+    "signin": "ننوتل",
+    "signup": "نوم لیکنه",
+    "home": "کور",
+    "about": "درباره",
+    "contact": "تماس"
+  },
+  "hero": {
+    "title": "خپل سوداګرۍ د  سره بدله کړئ",
+    "description": "د عصري سوداګریو لپاره ترټولو د باور وړ تادیاتو پلیټفارم. تادیات ومنئ، لیږدونه اداره کړئ، او زموږ د پراخو مالي حلونو سره خپل عاید وده ورکړئ.",
+    "getStarted": "پیل کړئ",
+    "watchDemo": "نمونه وګورئ"
+  },
+  "features": {
+    "title": "ولې  غوره کړو؟",
+    "description": "هغه پیاوړي ځانګړتیاوې وموندئ چې  د نړۍ په کچه د سوداګریو غوره انتخاب جوړوي.",
+    "security": {
+      "title": "د بانک کچې امنیت",
+      "description": "ستاسو لیږدونه د سازماني کچې کوډ کولو او د درغلۍ کشف سره محافظت کیږي."
+    },
+    "speed": {
+      "title": "د رڼا په څیر ګړندی",
+      "description": "زموږ د غوره شوي زیربنا او نړیوال شبکې سره په ثانیو کې تادیات پروسس کړئ."
+    },
+    "global": {
+      "title": "نړیوال لاسرسی",
+      "description": "د ۱۰۰+ اسعارو ملاتړ سره د ټولې نړۍ پیرودونکو څخه تادیات ومنئ."
+    },
+    "collaboration": {
+      "title": "د ټیم همکاري",
+      "description": "د رول پر بنسټ لاسرسي او د ریښتیني وخت خبرتیاو سره په ښه توګه همکاري وکړئ."
+    }
+  },
+  "cta": {
+    "title": "د پیل لپاره چمتو یاست؟",
+    "description": "د زرګونو سوداګریو سره یوځای شئ چې د دوی د تادیاتو پروسس کولو اړتیاو لپاره  ته باور لري.",
+    "getStarted": "وړیا آزموینه پیل کړئ"
+  },
+  "footer": {
+    "title": "Nextjs Starter Template",
+    "description": "د عصري سوداګریو لپاره ترټولو د باور وړ تادیاتو پلیټفارم. تادیات ومنئ، لیږدونه اداره کړئ، او زموږ د پراخو مالي حلونو سره خپل عاید وده ورکړئ.",
+    "company": "شرکت",
+    "about": "درباره ما",
+    "products": "محصولات",
+    "pricing": "قیمت ها",
+    "documentation": "مستندات",
+    "helpCenter": "مرکز راهنما",
+    "support": "پشتیبانی"
+  },
+  "auth": {
+    "signin": "ننوتل",
+    "signup": "نوم لیکنه",  
+    "signout": "وتل",
+    "email": "بریښنالیک",
+    "password": "پټنوم",
+    "confirmPassword": "پټنوم تایید",
+    "forgotPassword": "پټنوم مو هیر شوی؟",
+    "rememberMe": "زه یادولئ",
+    "alreadyHaveAccount": "حساب لرئ؟",
+    "dontHaveAccount": "حساب نلرئ؟",
+    "createAccount": "حساب جوړول",
+    "firstName": "لومړی نوم",
+    "lastName": "وروستی نوم",
+    "createAccountTitle": "حساب جوړول",
+    "createAccountSubtitle": "د Acme Inc سره یوځای شئ او له نن څخه پیل وکړئ",
+    "createAccountButton": "حساب جوړول",
+    "creatingAccount": "حساب جوړول کیږي...",
+    "termsAgreement": "زه موافق یم د",
+    "termsOfService": "د کارونې شرطونو",
+    "and": "او",
+    "privacyPolicy": "د محرمیت تګلاره",
+    "byClickingContinue": " با کلیک بر روی ادامه، موافقت می‌کنید به",
+    "registrationFailed": "نوم لیکنه ناکامه شوه. مهرباني وکړئ بیا هڅه وکړئ.",
+    "orContinueWith": "یا د دې سره دوام ورکړئ",
+    "welcomeBack": "ښه راغلاست",
+    "loginToAccount": "د خپل Acme Inc حساب ته ننوځئ",
+    "loggingIn": "ننوتل کیږي...",
+    "invalidCredentials": "ناسم بریښنالیک یا پټنوم. مهرباني وکړئ بیا هڅه وکړئ."
+  },
+  "dashboard": {
+    "welcome": "ډشبورډ ته ښه راغلاست",
+    "overview": "لنډیز",
+    "analytics": "تحلیلات",
+    "users": "کاروونکي",
+    "transactions": "لیږدونه",
+    "reports": "راپورونه",
+    "settings": "تنظیمات",
+    "help": "مرسته"
+  },
+  "alertModal": {
+    "confirm": "تایید",
+    "cancel": "لغو"
+  },
+  "pagination": {
+    "previous": "پخپل",
+    "next": "بیرته",
+    "of": "له",
+    "rowsPerPage": "ردیف برای صفحه",
+    "showing": "نمایش",
+    "to": "په",
+    "entries": "موردونه",
+    "all": "ټول",
+    "goToPage": "برو به صفحه",
+    "goToPreviousPage": "برو به صفحه پخپل",
+    "goToNextPage": "برو به صفحه بیرته"
+  },
+  "data-table": {
+    "noData": "داتا یافت نشد",
+    "actions": "عملیات",
+    "status": "وضعیت",
+    "createdAt": "تاریخ ایجاد",
+    "updatedAt": "تاریخ بروزرسانی",
+    "createdBy": "ایجاد شده توسط"
+  },
+  "user": {
+    "user": "کاروونکي",
+    "users": "کاروونکي",
+    "createUser": "کاروونکي جوړول",
+    "editUser": "کاروونکي سمول",
+    "updateUser": "کاروونکي ترمیم کړئ",
+    "deleteUser": "کاروونکي ړنګول",
+    "addUser": "کاروونکي جوړول",
+    "usersManagement": "کاروونکي مدیریت",
+    "timezone": "زمان منطقی",
+    "username": "نام کاروونکي",
+    "websiteUrl": "وبسایت آدرس",
+    "bannerImageUrl": "بنر تصویر آدرس",
+    "joined": " راغلاست",
+    "noUsersFound": "کاروونکي یافت نشد",
+    "deleteUserDescription": "آیا مطمئن هستید که می‌خواهید این کاربر را حذف کنید؟",
+    "states": {
+      "totalUsers": "کاروونکي",
+      "active": "فعال",
+      "inactive": "غیرفعال",
+      "pending": "درحال انتظار",
+      "blocked": "مسدود",
+      "withWebsite": "با وبسایت"
+    }
+  },
+  "form": {
+    "cancel": "لغو",
+    "save": "ساتل",
+    "saving": "در حال ساتلونه..."
+  },
+  "validation": {
+    "email": {
+      "invalid": "ناسم بریښنالیک آدرس",
+      "required": "بریښنالیک اړین دی"
+    },
+    "password": {
+      "min": "پټنوم باید لږترلږه {min} توری ولري",
+      "required": "پټنوم اړین دی",
+      "match": "پټنوم ها مطابقت ندارند"
+    },
+    "required": "دا ساحه اړینه ده",
+    "minLength": "لږترلږه {min} توری باید ولری",
+    "maxLength": "د {max} تورو څخه زیات نه باید وي",
+    "url": "باید یو معتبر URL وي",
+    "firstName": {
+      "min": "لومړی نوم باید لږترلږه {min} توری ولري"
+    },
+    "lastName": {
+      "min": "وروستی نوم باید لږترلږه {min} توری ولري"
+    },
+    "terms": {
+      "required": "شما باید با شرایط و قوانین استفاده از سایت موافقت کنید"
+    },
+    "passwordMatch": "پټنوم ها مطابقت ندارند"
+  }
+}

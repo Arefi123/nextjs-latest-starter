@@ -1,0 +1,197 @@
+{
+  "common": {
+    "loading": "در حال بارگذاری...",
+    "error": "خطا",
+    "success": "موفقیت",
+    "cancel": "لغو",
+    "save": "ذخیره",
+    "delete": "حذف",
+    "edit": "ویرایش",
+    "create": "ایجاد",
+    "search": "جستجو",
+    "filter": "فیلتر",
+    "export": "صادرات",
+    "import": "واردات"
+  },
+  "navigation": {
+    "dashboard": "داشبورد",
+    "analytics": "تحلیل‌ها",
+    "analytics1": "تحلیل 1",
+    "analytics2": "تحلیل 2",
+    "users": "کاربران",
+    "transactions": "تراکنش‌ها",
+    "reports": "گزارشات",
+    "settings": "تنظیمات",
+    "help": "راهنما",
+    "profile": "پروفایل",
+    "logout": "خروج",
+    "authentication": "احراز هویت",
+    "signin": "ورود",
+    "signup": "ثبت نام",
+    "home": "خانه",
+    "about": "درباره ما",
+    "contact": "تماس با ما"
+  },
+  "hero": {
+    "title": "کسب و کار خود را با  متحول کنید",
+    "description": "مطمئن‌ترین پلتفرم پرداخت برای کسب و کارهای مدرن. پرداخت‌ها را بپذیرید، تراکنش‌ها را مدیریت کنید و درآمد خود را با راه‌حل‌های مالی جامع ما افزایش دهید.",
+    "getStarted": "شروع کنید",
+    "watchDemo": "مشاهده نمونه"
+  },
+  "features": {
+    "title": "چرا  را انتخاب کنیم؟",
+    "description": "ویژگی‌های قدرتمندی را کشف کنید که  را به انتخاب اول کسب و کارها در سراسر جهان تبدیل کرده است.",
+    "security": {
+      "title": "امنیت سطح بانکی",
+      "description": "تراکنش‌های شما با رمزگذاری سطح سازمانی و تشخیص تقلب محافظت می‌شوند."
+    },
+    "speed": {
+      "title": "سرعت برق‌آسا",
+      "description": "پرداخت‌ها را در عرض ثانیه‌ها با زیرساخت بهینه‌شده و شبکه جهانی ما پردازش کنید."
+    },
+    "global": {
+      "title": "دسترسی جهانی",
+      "description": "پرداخت‌هایی از مشتریان سراسر جهان با پشتیبانی از بیش از ۱۰۰ ارز بپذیرید."
+    },
+    "collaboration": {
+      "title": "همکاری تیمی",
+      "description": "با دسترسی مبتنی بر نقش و اعلان‌های بلادرنگ به صورت یکپارچه همکاری کنید."
+    }
+  },
+  "cta": {
+    "title": "آماده شروع هستید؟",
+    "description": "به هزاران کسب و کاری بپیوندید که برای نیازهای پردازش پرداخت خود به  اعتماد می‌کنند.",
+    "getStarted": "شروع آزمایشی رایگان"
+  },
+  "footer": {
+    "title": "Nextjs Starter Template",
+    "description": "مطمئن‌ترین پلتفرم پرداخت برای کسب و کارهای مدرن. پرداخت‌ها را بپذیرید، تراکنش‌ها را مدیریت کنید و درآمد خود را با راه‌حل‌های مالی جامع ما افزایش دهید.",
+    "company": "شرکت",
+    "about": "درباره ما",
+    "products": "محصولات",
+    "pricing": "قیمت ها",
+    "documentation": "مستندات",
+    "helpCenter": "مرکز راهنما",
+    "support": "پشتیبانی"
+  },
+  "auth": {
+    "signin": "ورود",
+    "signup": "ثبت نام",
+    "signout": "خروج",
+    "email": "ایمیل",
+    "password": "رمز عبور",
+    "confirmPassword": "تایید رمز عبور",
+    "forgotPassword": "رمز عبور را فراموش کرده‌اید؟",
+    "rememberMe": "مرا به خاطر بسپار",
+    "alreadyHaveAccount": "حساب کاربری دارید؟",
+    "dontHaveAccount": "حساب کاربری ندارید؟",
+    "createAccount": "ایجاد حساب",
+    "firstName": "نام",
+    "lastName": "نام خانوادگی",
+    "createAccountTitle": "ایجاد حساب کاربری",
+    "createAccountSubtitle": "به Acme Inc بپیوندید و از امروز شروع کنید",
+    "createAccountButton": "ایجاد حساب",
+    "creatingAccount": "در حال ایجاد حساب...",
+    "termsAgreement": "من موافقم با",
+    "termsOfService": "شرایط استفاده",
+    "and": "و",
+    "privacyPolicy": "سیاست حفظ حریم خصوصی",
+    "byClickingContinue": " با کلیک بر روی ادامه، موافقت می‌کنید به",
+    "registrationFailed": "ثبت نام ناموفق بود. لطفاً دوباره تلاش کنید.",
+    "orContinueWith": "یا ادامه دهید با",
+    "welcomeBack": "دوباره خوش آمدید",
+    "loginToAccount": "به حساب کاربری Acme Inc خود وارد شوید",
+    "loggingIn": "در حال ورود...",
+    "invalidCredentials": "ایمیل یا رمز عبور نامعتبر است. لطفاً دوباره تلاش کنید."
+  },
+  "dashboard": {
+    "welcome": "به داشبورد خوش آمدید",
+    "overview": "نمای کلی",
+    "analytics": "تحلیل‌ها",
+    "users": "کاربران",
+    "transactions": "تراکنش‌ها",
+    "reports": "گزارشات",
+    "settings": "تنظیمات",
+    "help": "راهنما"
+  },
+  "alertModal": {
+    "confirm": "تایید",
+    "cancel": "لغو"
+  },
+  "pagination": {
+    "previous": "قبلی",
+    "next": "بعدی",
+    "of": "از",
+    "rowsPerPage": "ردیف برای صفحه",
+    "showing": "نمایش",
+    "to": "تا",
+    "entries": "مورد",
+    "all": "همه",
+    "goToPage": "برو به صفحه",
+    "goToPreviousPage": "برو به صفحه قبلی",
+    "goToNextPage": "برو به صفحه بعدی"
+  },
+  "data-table": {
+    "noData": "داتا یافت نشد",
+    "actions": "عملیات",
+    "status": "وضعیت",
+    "createdAt": "تاریخ ایجاد",
+    "updatedAt": "تاریخ بروزرسانی",
+    "createdBy": "ایجاد شده توسط"
+  },
+  "user": {
+    "user": "کاربر",
+    "users": "کاربران",
+    "createUser": "ایجاد کاربر",
+    "editUser": "ویرایش کاربر",
+    "updateUser": "بروزرسانی کاربر",
+    "deleteUser": "حذف کاربر",
+    "addUser": "افزودن کاربر",
+    "usersManagement": "مدیریت کاربران",
+    "timezone": "منطقه زمانی",
+    "username": "نام کاربری",
+    "websiteUrl": "آدرس وبسایت",
+    "bannerImageUrl": "آدرس تصویر بنر",
+    "joined": "ثبت نام کرده",
+    "noUsersFound": "کاربری یافت نشد",
+    "deleteUserDescription": "آیا مطمئن هستید که می‌خواهید این کاربر را حذف کنید؟",
+    "states": {
+      "totalUsers": "تعداد کاربران",
+      "active": "فعال",
+      "inactive": "غیرفعال",
+      "pending": "درحال انتظار",
+      "blocked": "مسدود",
+      "withWebsite": "با وبسایت"
+    }
+  },
+  "form": {
+    "cancel": "لغو",
+    "save": "ذخیره",
+    "saving": "در حال ذخیره..."
+  },
+  "validation": {
+    "email": {
+      "invalid": "آدرس ایمیل نامعتبر است",
+      "required": "ایمیل الزامی است"
+    },
+    "password": {
+      "min": "رمز عبور باید حداقل {min} کاراکتر باشد",
+      "required": "رمز عبور الزامی است",
+      "match": "رمز عبور ها مطابقت ندارند"
+    },
+    "required": "این فیلد الزامی است",
+    "minLength": "باید حداقل {min} کاراکتر باشد",
+    "maxLength": "نباید بیشتر از {max} کاراکتر باشد",
+    "url": "باید یک آدرس اینترنتی معتبر باشد",
+    "firstName": {
+      "min": "نام باید حداقل {min} کاراکتر باشد"
+    },
+    "lastName": {
+      "min": "نام خانوادگی باید حداقل {min} کاراکتر باشد"
+    },
+    "terms": {
+      "required": "شما باید با شرایط و قوانین استفاده از سایت موافقت کنید"
+    },
+    "passwordMatch": "رمز عبور ها مطابقت ندارند"
+  }
+}
