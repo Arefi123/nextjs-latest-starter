@@ -14,6 +14,7 @@ A modern, production-ready Next.js starter template with enterprise-grade featur
 - **📊 State management** with Zustand for efficient state handling
 - **✅ Form handling** with React Hook Form and Zod validation
 - **🔗 URL state management** with nuqs for better UX
+- **🚀 GraphQL integration** with Apollo Client for efficient data fetching
 - **🧹 Code quality** with Biome for linting and formatting
 - **📦 Package management** with pnpm for faster, more efficient installs and disk space savings
 
@@ -198,6 +199,7 @@ The template is fully responsive and includes:
 | [React Hook Form](https://react-hook-form.com/) | Form Handling | 7.62.0 |
 | [Zod](https://zod.dev/) | Schema Validation | 4.0.17 |
 | [next-intl](https://next-intl-docs.vercel.app/) | Internationalization | 4.3.5 |
+| [Apollo Client](https://www.apollographql.com/docs/react/) | GraphQL Client | 4.0.0 |
 | [Biome](https://biomejs.dev/) | Linting & Formatting | 2.2.0 |
 | [pnpm](https://pnpm.io/) | Package Manager | 8.x |
 
