@@ -28,6 +28,11 @@ export const sidebarNavItems = [
     icon: LayoutDashboard,
   },
   {
+    title: "users",
+    href: "/dashboard/users",
+    icon: Users,
+  },
+  {
     title: "authentication",
     href: "#",
     icon: Lock,
@@ -60,11 +65,6 @@ export const sidebarNavItems = [
         icon: BarChart3,
       },
     ],
-  },
-  {
-    title: "users",
-    href: "/dashboard/users",
-    icon: Users,
   },
   {
     title: "transactions",
