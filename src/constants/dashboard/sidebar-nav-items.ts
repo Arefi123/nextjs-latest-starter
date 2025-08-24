@@ -28,23 +28,6 @@ export const sidebarNavItems = [
     icon: LayoutDashboard,
   },
   {
-    title: "analytics",
-    href: "/dashboard/analytics",
-    icon: BarChart3,
-    items: [
-      {
-        title: "analytics1",
-        href: "/dashboard/analytics/1",
-        icon: BarChart3,
-      },
-      {
-        title: "analytics2",
-        href: "/dashboard/analytics/2",
-        icon: BarChart3,
-      },
-    ],
-  },
-  {
     title: "authentication",
     href: "#",
     icon: Lock,
@@ -58,6 +41,23 @@ export const sidebarNavItems = [
         title: "signup",
         href: "/auth/sign-up",
         icon: Lock,
+      },
+    ],
+  },
+  {
+    title: "analytics",
+    href: "/dashboard/analytics",
+    icon: BarChart3,
+    items: [
+      {
+        title: "analytics1",
+        href: "/dashboard/analytics/1",
+        icon: BarChart3,
+      },
+      {
+        title: "analytics2",
+        href: "/dashboard/analytics/2",
+        icon: BarChart3,
       },
     ],
   },
